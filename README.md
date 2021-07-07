@@ -14,4 +14,4 @@ Code Repo:
 ```
 
 ## Screenshot:
-![home](dashboardshot.png)
+![dash](/dashboardshot.png)
